@@ -1,0 +1,20 @@
+{
+  "name": "contactlist",
+  "version": "1.0.0",
+  "description": "a simple  applicatin",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "prasnna vadhanan",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/cli": "^7.1.4",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "mongodb": "^2.2.33",
+    "mongoose": "^5.4.0",
+    "nodemon": "^1.18.9"
+  }
+}
